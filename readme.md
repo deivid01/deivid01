@@ -18,7 +18,7 @@ Olá! Meu nome é Deivid, e sou um desenvolvedor front-end e estudante de Sistem
 - Git
 
 ## Estatísticas do GitHub
-![Estatísticas do GitHub] (https://github-readme-stats.vercel.app/api?username=deivid01)](https://github.com/deivid01/github-readme-stats)
+![Estatísticas do GitHub] (https://github-readme-stats.vercel.app/api?username=deivid01)
 
 ## Entre em Contato
 - [LinkedIn] https://www.linkedin.com/in/deivid-rodrigues-5169001a1/
