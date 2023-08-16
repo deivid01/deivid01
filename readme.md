@@ -19,6 +19,7 @@ Olá! Meu nome é Deivid, e sou um desenvolvedor front-end e estudante de Sistem
 
 ## Estatísticas do GitHub
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=deivid01&show_icons=true&theme=tokyonight)](https://github.com/deivid01/github-readme-stats)
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=deivid01&layout=compact&theme=tokyonight)](https://github.com/deivid01/github-readme-stats)
 
 ## Entre em Contato
 - [LinkedIn] https://www.linkedin.com/in/deivid-rodrigues-5169001a1/
