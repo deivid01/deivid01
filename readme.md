@@ -7,11 +7,6 @@ Olá! Meu nome é Deivid, e sou um desenvolvedor front-end e estudante de Sistem
 - 🌱 Atualmente estou aprendendo sobre ES6+, React e NodeJS.
 - 📫 Como me encontrar: e-mail: deivideduardoperes@gmail.com
 
-## Projetos Destacados
-[![Gacha System](https://github-readme-stats.vercel.app/api/pin/?username=deivid01&repo=GachaSystem&theme=tokyonight)](https://github.com/deivid01/GachaSystem)
-[![WeatherApp](https://github-readme-stats.vercel.app/api/pin/?username=deivid01&repo=WeatherApp&theme=tokyonight)](https://github.com/deivid01/WeatherApp)
-[![To Do List](https://github-readme-stats.vercel.app/api/pin/?username=deivid01&repo=ToDoList&theme=tokyonight)](https://github.com/deivid01/ToDoList)
-
 ## Tecnologias
   <div style="display: inline_block"><br>
   <img align="center" alt="Deivid-Js" height="100" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -20,6 +15,11 @@ Olá! Meu nome é Deivid, e sou um desenvolvedor front-end e estudante de Sistem
   <img align="center" alt="Deivid-Git" height="100" width="100" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
 </div>
+
+## Projetos Destacados
+[![Gacha System](https://github-readme-stats.vercel.app/api/pin/?username=deivid01&repo=GachaSystem&theme=tokyonight)](https://github.com/deivid01/GachaSystem)
+[![WeatherApp](https://github-readme-stats.vercel.app/api/pin/?username=deivid01&repo=WeatherApp&theme=tokyonight)](https://github.com/deivid01/WeatherApp)
+[![To Do List](https://github-readme-stats.vercel.app/api/pin/?username=deivid01&repo=ToDoList&theme=tokyonight)](https://github.com/deivid01/ToDoList)
 
 ## Estatísticas do GitHub
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=deivid01&show_icons=true&theme=tokyonight)](https://github.com/deivid01/github-readme-stats)
