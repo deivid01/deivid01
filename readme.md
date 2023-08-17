@@ -8,20 +8,27 @@ Olá! Meu nome é Deivid, e sou um desenvolvedor front-end e estudante de Sistem
 - 📫 Como me encontrar: e-mail: deivideduardoperes@gmail.com
 
 ## Projetos Destacados
-- Gacha System: https://github.com/deivid01/GachaSystem - Um sistema de gacha inspirado em Genshin Impact.
-- To Do List: https://github.com/deivid01/ToDoList - Um To Do List feito com JavaScript. Possui as funções de criar tarefas, editar, marcar e desmarcar como concluidas.
+[![Gacha System](https://github-readme-stats.vercel.app/api/pin/?username=deivid01&repo=GachaSystem&theme=tokyonight)](https://github.com/deivid01/GachaSystem)
+[![WeatherApp](https://github-readme-stats.vercel.app/api/pin/?username=deivid01&repo=WeatherApp&theme=tokyonight)](https://github.com/deivid01/WeatherApp)
+[![To Do List](https://github-readme-stats.vercel.app/api/pin/?username=deivid01&repo=ToDoList&theme=tokyonight)](https://github.com/deivid01/ToDoList)
 
 ## Tecnologias
-- JavaScript
-- CSS3
-- HTML5
-- Git
+  <div style="display: inline_block"><br>
+  <img align="center" alt="Deivid-Js" height="100" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Deivid-HTML" height="100" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Deivid-CSS" height="100" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Deivid-Git" height="100" width="100" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+</div>
 
 ## Estatísticas do GitHub
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=deivid01&show_icons=true&theme=tokyonight)](https://github.com/deivid01/github-readme-stats)
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=deivid01&layout=compact&theme=tokyonight)](https://github.com/deivid01/github-readme-stats)
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=deivid01&layout=compact&theme=tokyonight&card_width=470px)](https://github.com/deivid01/github-readme-stats)
 
 ## Entre em Contato
-- [LinkedIn] https://www.linkedin.com/in/deivid-rodrigues-5169001a1/
-- Email: deivideduardoperes@gmail.com
 
+<div> 
+  <a href = "mailto:deivideduardoperes@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/deivid-rodrigues-5169001a1/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+</div>
