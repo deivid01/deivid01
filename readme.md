@@ -19,6 +19,7 @@ Olá! Meu nome é Deivid, e sou um desenvolvedor front-end e estudante de Sistem
 
 ## Projetos Destacados
 [![Gacha System](https://github-readme-stats.vercel.app/api/pin/?username=deivid01&repo=GachaSystem&theme=tokyonight)](https://github.com/deivid01/GachaSystem)
+[![Info Movies - By TMDB](https://github-readme-stats.vercel.app/api/pin/?username=deivid01&repo=InfoMovies&theme=tokyonight)](https://github.com/deivid01/InfoMovies)
 [![WeatherApp](https://github-readme-stats.vercel.app/api/pin/?username=deivid01&repo=WeatherApp&theme=tokyonight)](https://github.com/deivid01/WeatherApp)
 [![To Do List](https://github-readme-stats.vercel.app/api/pin/?username=deivid01&repo=ToDoList&theme=tokyonight)](https://github.com/deivid01/ToDoList)
 
