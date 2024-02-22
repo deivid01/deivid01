@@ -1,7 +1,7 @@
 # Bem-vindo ao meu perfil do GitHub!
 
 ## Sobre Mim
-Olá! Meu nome é Deivid, e sou um desenvolvedor front-end e estudante de Sistemas de Informação. Atualmente estou cursando o último semestre. Estou interessado em desenvolvimento web, desenvolvimento front-end, e áreas correlatadas que envolvam javascript e front-end. 
+Olá! Meu nome é Deivid, e sou um desenvolvedor front-end e formado na faculdade de Sistemas de Informação pela Universidade Estácio de Sá. Estou interessado em desenvolvimento web, desenvolvimento front-end, e áreas correlatadas que envolvam javascript e front-end. 
 
 - 🔭 Atualmente estou trabalhando apenas em projetos para o meu GitHub.
 - 🌱 Atualmente estou aprendendo sobre ES6+, React e NodeJS.
