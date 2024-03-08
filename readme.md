@@ -4,12 +4,13 @@
 Olá! Meu nome é Deivid, e sou um desenvolvedor front-end e formado na faculdade de Sistemas de Informação pela Universidade Estácio de Sá. Estou interessado em desenvolvimento web, desenvolvimento front-end, e áreas correlatadas que envolvam javascript e front-end. 
 
 - 🔭 Atualmente estou trabalhando apenas em projetos para o meu GitHub.
-- 🌱 Atualmente estou aprendendo sobre ES6+, React e NodeJS.
+- 🌱 Atualmente estou aprendendo sobre TS, React e NodeJS.
 - 📫 Como me encontrar: e-mail: deivideduardoperes@gmail.com
 
 ## Tecnologias
   <div style="display: inline_block"><br>
-  <img align="center" alt="Deivid-React" height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>      
+  <img align="center" alt="Deivid-React" height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
+  <img align="center" alt="Deivid-TS" height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />      
   <img align="center" alt="Deivid-Js" height="100" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Deivid-HTML" height="100" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Deivid-CSS" height="100" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
