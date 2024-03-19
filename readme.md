@@ -22,7 +22,7 @@ Olá! Meu nome é Deivid, e sou um desenvolvedor front-end e formado na faculdad
 [![Gacha System](https://github-readme-stats.vercel.app/api/pin/?username=deivid01&repo=GachaSystem&theme=tokyonight)](https://github.com/deivid01/GachaSystem)
 [![Info Movies - By TMDB](https://github-readme-stats.vercel.app/api/pin/?username=deivid01&repo=InfoMovies&theme=tokyonight)](https://github.com/deivid01/InfoMovies)
 [![WeatherApp](https://github-readme-stats.vercel.app/api/pin/?username=deivid01&repo=WeatherApp&theme=tokyonight)](https://github.com/deivid01/WeatherApp)
-[![To Do List](https://github-readme-stats.vercel.app/api/pin/?username=deivid01&repo=ToDoList&theme=tokyonight)](https://github.com/deivid01/ToDoList)
+[![To Do List React com Typescript](https://github-readme-stats.vercel.app/api/pin/?username=deivid01&repo=To-Do-List-React-com-Typescript&theme=tokyonight)](https://github.com/deivid01/To-Do-List-React-com-Typescript)
 
 ## Estatísticas do GitHub
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=deivid01&show_icons=true&theme=tokyonight)](https://github.com/deivid01/github-readme-stats)
