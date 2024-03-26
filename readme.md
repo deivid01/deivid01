@@ -20,7 +20,7 @@ Olá! Meu nome é Deivid, e sou um desenvolvedor front-end e formado na faculdad
 
 ## Projetos Destacados
 [![Gacha System](https://github-readme-stats.vercel.app/api/pin/?username=deivid01&repo=GachaSystem&theme=tokyonight)](https://github.com/deivid01/GachaSystem)
-[![Info Movies - By TMDB](https://github-readme-stats.vercel.app/api/pin/?username=deivid01&repo=InfoMovies&theme=tokyonight)](https://github.com/deivid01/InfoMovies)
+[![Info Movies - By TMDB](https://github-readme-stats.vercel.app/api/pin/?username=deivid01&repo=Info-Movies&theme=tokyonight)](https://github.com/deivid01/Info-Movies)
 [![WeatherApp](https://github-readme-stats.vercel.app/api/pin/?username=deivid01&repo=WeatherApp&theme=tokyonight)](https://github.com/deivid01/WeatherApp)
 [![To Do List React com Typescript](https://github-readme-stats.vercel.app/api/pin/?username=deivid01&repo=To-Do-List-React-com-Typescript&theme=tokyonight)](https://github.com/deivid01/To-Do-List-React-com-Typescript)
 
